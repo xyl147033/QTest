@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QTestClass</class>
+ <widget class="QWidget" name="QTestClass" >
+  <property name="objectName" >
+   <string notr="true">QTestClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QTest</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QTest.qrc"/>
+ </resources>
+ <connections/>
+</UI>
